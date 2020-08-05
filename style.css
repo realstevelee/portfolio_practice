@@ -58,7 +58,7 @@ h6 { font-size: 16px;}
 }
 
 .main-container {
-    width: 1200px;
+    width: 850px;
     margin: 0 auto;
 }
 
@@ -143,11 +143,12 @@ h6 { font-size: 16px;}
 }
 
 #profile_pic {
-    width: 200px;
+    width: 150px;
     margin: 0 auto;
     display: block;
     object-fit: cover;
     border: 2px solid var(--borderColor);
+    border-radius: 50%;
 }
 
 #theme-options-wrapper {
